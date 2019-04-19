@@ -1,3 +1,9 @@
 *.csv
 *checkpoint.ipynb
 *.ipynb_checkpoints
+*.jpg
+*.mat
+*.npy
+*.pkl
+*.txt
+*.json
